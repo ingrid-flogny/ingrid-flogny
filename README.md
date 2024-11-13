@@ -1,14 +1,13 @@
-<h1 align="center"> Hi there 👋</h1>
-<h1 align="center">I'm Ingrid Flogny, Confirmed Data Scientist</h1>
+<h1 align="center"> Hi there 👋 I'm Ingrid Flogny, Confirmed Data Scientist</h1>
 
 
 <h4 align="center">I'm a Data Scientist with 3 years of experience. I design and implement scalable ML solutions.
 I transform business challenges into strategic business value. 
 My expertise lies in developing production-ready ML systems.</h3>
 
-- 🔭 I’m working on Predictive Analytics at Synergy France. 
-- 🛠️ I developed ML models achieving 97% accuracy in revenue forecasting and KPI prediction for a client.
-- 🛠️ I designed and deployed custom chatbots for enterprise-level customer service automation.
+- 👩‍🔧 I’m working on Predictive Analytics at Synergy France. 
+- 📈 I developed ML models achieving 97% accuracy in revenue forecasting and KPI prediction for a client.
+- 🤖 I designed and deployed custom chatbots for enterprise-level customer service automation.
 
 
 - 🛠️ Tools & technologies I master :
@@ -20,24 +19,31 @@ My expertise lies in developing production-ready ML systems.</h3>
 
 
 - 🎓 I am Dataiku certified.
-- 📫 How to reach me : **ingridfgy@gmail.com** / <a target="_blank" href="https://https://www.linkedin.com/in/ingrid-flogny-5bb943176//">
-  <img align="right" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<p style="display: flex; align-items: center; gap: 5px;">
+📫 How to reach me:
+  <a target="_blank" href="mailto:ingridfgy@gmail.com">
+    <img alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  or
+  <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
+    <img alt="LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  </a>
+</p>
 
-### 🏢 I worked for :
+- 🏢 I worked for :
 <a target="_blank" href="https://www.orano.group/fr">
-  <img align="center" alt="LinkdeIN" width="100px" src="https://www.groupe-cmo.com/wp-content/uploads/2024/04/logo-orano.png" />
+  <img align="center" alt="Orano Logo" width="100px" src="https://www.groupe-cmo.com/wp-content/uploads/2024/04/logo-orano.png" style="margin: 10px;" />
 </a>
 <a target="_blank" href="https://www.kiloutou.fr/">
-  <img align="center" alt="LinkdeIN" width="100px" src="https://technologis25.fr/wp-content/uploads/2020/12/KILOUTOU.jpg" />
+  <img align="center" alt="Kiloutou Logo" width="100px" src="https://technologis25.fr/wp-content/uploads/2020/12/KILOUTOU.jpg" style="margin: 10px;" />
 </a>
 <a target="_blank" href="https://www.edhec.edu/fr?utm_source=google&utm_medium=adssearch&utm_campaign=NOTO%E2%80%94France_notori%C3%A9t%C3%A9_2022&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHdJkJt8BJX2jJnZ6MEoU2fQc2oRGTqCoMOLD0wAEUwmrtmF0IK52xoCiYUQAvD_BwE">
-  <img align="center" alt="LinkdeIN" width="100px" src="https://musicall-edhec.com/wp-content/uploads/2022/02/logo-edhec-transparent.png?w=640" />
+  <img align="center" alt="EDHEC Logo" width="100px" src="https://musicall-edhec.com/wp-content/uploads/2022/02/logo-edhec-transparent.png?w=640" style="margin: 10px;" />
 </a>
 <a target="_blank" href="https://www.aesio.fr/?utm_source=google&utm_medium=cpc&utm_campaign=par_dgm_fdl_cqt_marque_google_cpc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHEvB3exDBwhYFWffKM6uVm7zdBRU32CTZURyNizxH-mVvIxKWivyhoCwkkQAvD_BwE">
-  <img align="center" alt="LinkdeIN" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" />
+  <img align="center" alt="Aesio Logo" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" style="margin: 10px;" />
 </a>
-
-### 🏢 Actual Company
+- 🏢 Actual Company
 <a target="_blank" href="https://www.synergy.fr/">
   <img align="center" alt="LinkdeIN" width="100px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
 </a>
