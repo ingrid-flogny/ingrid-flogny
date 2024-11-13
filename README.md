@@ -19,8 +19,7 @@ My expertise lies in developing production-ready ML systems.</h3>
 
 
 - 🎓 I am Dataiku certified.
-- 📫 How to reach me :
-<a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
+- 📫 How to reach me : <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 or 
@@ -28,7 +27,7 @@ or
   <img align="center" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-- 🏢 I worked for:
+- 🏢 I worked for :
   <a target="_blank" href="https://www.orano.group/fr">
     <img alt="Orano Logo" width="100px" src="https://www.groupe-cmo.com/wp-content/uploads/2024/04/logo-orano.png" />
   </a>
@@ -43,7 +42,7 @@ or
   </a>
 
 
-- 🏢 Actual Company:
+- 🏢 Actual Company :
   <a target="_blank" href="https://www.synergy.fr/">
     <img alt="Synergy Logo" width="100px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
   </a>
