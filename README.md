@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Ingrid Flogny, Confirmed Data Scientist / ML Engineer</h1>
 
 
-<h4 align="center">I'm a Data Scientist with 3 years of experience. I design and implement scalable ML solutions.
+<h3 align="center">I'm a Data Scientist with 3 years of experience. I design and implement scalable ML solutions.
 I transform business challenges into strategic business value. 
 My expertise lies in developing production-ready ML systems.</h3>
 
