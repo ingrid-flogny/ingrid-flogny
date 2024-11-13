@@ -21,7 +21,7 @@ My expertise lies in developing production-ready ML systems.</h3>
 - 🎓 I am Dataiku certified.
 - 📫 How to reach me : <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-or <a target="_blank" href="mailto:ingridfgy@gmail.com">
+</a>or<a target="_blank" href="mailto:ingridfgy@gmail.com">
   <img align="center" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
