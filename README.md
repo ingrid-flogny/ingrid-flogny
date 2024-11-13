@@ -21,7 +21,7 @@ My expertise lies in developing production-ready ML systems.</h3>
 - 🎓 I am Dataiku certified.
 - 📫 How to reach me : <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a> or <a target="_blank" href="mailto:ingridfgy@gmail.com">
+or <a target="_blank" href="mailto:ingridfgy@gmail.com">
   <img align="center" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -37,7 +37,7 @@ My expertise lies in developing production-ready ML systems.</h3>
 </a>
 <a target="_blank" href="https://www.aesio.fr/?utm_source=google&utm_medium=cpc&utm_campaign=par_dgm_fdl_cqt_marque_google_cpc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHEvB3exDBwhYFWffKM6uVm7zdBRU32CTZURyNizxH-mVvIxKWivyhoCwkkQAvD_BwE">
 <img alt="Aesio Logo" img align="center" alt="LinkdeIN" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" />
--</a>
+</a>
 
 
 - 🏢 Actual Company :
