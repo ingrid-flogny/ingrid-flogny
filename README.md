@@ -28,24 +28,30 @@ My expertise lies in developing production-ready ML systems.</h3>
   <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
     <img alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
-</p>
+</p> 
 
-- 🏢 I worked for :
-<a target="_blank" href="https://www.orano.group/fr">
-  <img align="center" alt="Orano Logo" width="100px" src="https://www.groupe-cmo.com/wp-content/uploads/2024/04/logo-orano.png" style="margin: 10px;" />
-</a>
-<a target="_blank" href="https://www.kiloutou.fr/">
-  <img align="center" alt="Kiloutou Logo" width="100px" src="https://technologis25.fr/wp-content/uploads/2020/12/KILOUTOU.jpg" style="margin: 10px;" />
-</a>
-<a target="_blank" href="https://www.edhec.edu/fr?utm_source=google&utm_medium=adssearch&utm_campaign=NOTO%E2%80%94France_notori%C3%A9t%C3%A9_2022&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHdJkJt8BJX2jJnZ6MEoU2fQc2oRGTqCoMOLD0wAEUwmrtmF0IK52xoCiYUQAvD_BwE">
-  <img align="center" alt="EDHEC Logo" width="100px" src="https://musicall-edhec.com/wp-content/uploads/2022/02/logo-edhec-transparent.png?w=640" style="margin: 10px;" />
-</a>
-<a target="_blank" href="https://www.aesio.fr/?utm_source=google&utm_medium=cpc&utm_campaign=par_dgm_fdl_cqt_marque_google_cpc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHEvB3exDBwhYFWffKM6uVm7zdBRU32CTZURyNizxH-mVvIxKWivyhoCwkkQAvD_BwE">
-  <img align="center" alt="Aesio Logo" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" style="margin: 10px;" />
-</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+🏢 I worked for:
+  <a target="_blank" href="https://www.orano.group/fr">
+    <img alt="Orano Logo" width="100px" src="https://www.groupe-cmo.com/wp-content/uploads/2024/04/logo-orano.png" />
+  </a>
+  <a target="_blank" href="https://www.kiloutou.fr/">
+    <img alt="Kiloutou Logo" width="100px" src="https://technologis25.fr/wp-content/uploads/2020/12/KILOUTOU.jpg" />
+  </a>
+  <a target="_blank" href="https://www.edhec.edu/fr?utm_source=google&utm_medium=adssearch&utm_campaign=NOTO%E2%80%94France_notori%C3%A9t%C3%A9_2022&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHdJkJt8BJX2jJnZ6MEoU2fQc2oRGTqCoMOLD0wAEUwmrtmF0IK52xoCiYUQAvD_BwE">
+    <img alt="EDHEC Logo" width="100px" src="https://musicall-edhec.com/wp-content/uploads/2022/02/logo-edhec-transparent.png?w=640" />
+  </a>
+  <a target="_blank" href="https://www.aesio.fr/?utm_source=google&utm_medium=cpc&utm_campaign=par_dgm_fdl_cqt_marque_google_cpc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHEvB3exDBwhYFWffKM6uVm7zdBRU32CTZURyNizxH-mVvIxKWivyhoCwkkQAvD_BwE">
+    <img alt="Aesio Logo" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" />
+  </a>
+</div>
 
-- 🏢 Actual Company : 
-<a target="_blank" href="https://www.synergy.fr/">
-  <img align="center" alt="LinkdeIN" width="100px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
-</a>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+🏢 Actual Company:
+  <a target="_blank" href="https://www.synergy.fr/">
+    <img alt="Synergy Logo" width="100px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
+  </a>
+</div>
+
 
