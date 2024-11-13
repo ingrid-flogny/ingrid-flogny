@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Ingrid Flogny, Confirmed Data Scientist</h1>
+<h1 align="center"> Hi there 👋 I'm Ingrid Flogny, Confirmed Data Scientist / ML Engineer</h1>
 
 
 <h4 align="center">I'm a Data Scientist with 3 years of experience. I design and implement scalable ML solutions.
@@ -20,13 +20,13 @@ My expertise lies in developing production-ready ML systems.</h3>
 
 - 🎓 I am Dataiku certified.
 <p style="display: flex; align-items: center; gap: 5px;">
-📫 How to reach me:
+📫 How to reach me :
   <a target="_blank" href="mailto:ingridfgy@gmail.com">
-    <img alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   or
   <a target="_blank" href="https://www.linkedin.com/in/ingrid-flogny-5bb943176/">
-    <img alt="LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+    <img alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a>
 </p>
 
@@ -43,7 +43,8 @@ My expertise lies in developing production-ready ML systems.</h3>
 <a target="_blank" href="https://www.aesio.fr/?utm_source=google&utm_medium=cpc&utm_campaign=par_dgm_fdl_cqt_marque_google_cpc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjHEvB3exDBwhYFWffKM6uVm7zdBRU32CTZURyNizxH-mVvIxKWivyhoCwkkQAvD_BwE">
   <img align="center" alt="Aesio Logo" width="100px" src="https://www.aesio-sante.fr/sites/default/files/logo_2.png" style="margin: 10px;" />
 </a>
-- 🏢 Actual Company
+
+- 🏢 Actual Company : 
 <a target="_blank" href="https://www.synergy.fr/">
   <img align="center" alt="LinkdeIN" width="100px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
 </a>
